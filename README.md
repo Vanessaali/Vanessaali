@@ -1,8 +1,10 @@
-## Hi there 👋
+### Hi there 👋
 ## This is Vanessa Ali
 
 
 ## I'm a Business Intelligence Analyst
+* * I love playing with data, i aspire to apply my expertise in optimizing processes and generating actionable insights from data, ultimately driving value for stakeholders.
+  * I'm currently working on several project and also building my capacity to expand my knowledge Data Scientist
 
 
 
